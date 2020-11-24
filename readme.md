@@ -26,7 +26,7 @@ Query Detail:
 
 example api calls and response:
 
-    http://localhost:4010/testQuery?date=2020-12-04%2014:17:32.534Z,2020-12-10%2014:17:32.534Z&product=prod1&details=false
+    http://localhost:4010/testQuery?date=2020-01-04%2014:17:32.534Z,2020-12-10%2014:17:32.534Z&product=prod1&details=false
 
     response:
     
