@@ -8,7 +8,7 @@ POSTMAN or browser get call url:
     localhost:4010/testQuery?date=2020-12-05 14:17:32.534Z,2020-12-10 14:17:32.534Z&product=prod1&details=true
     change port in index.js if required
 
-Mongo congifuration: 
+Mongo configuration: 
 
     path -> mongo/config.js
     add remote_mongo details and change export to remote_mongo
